@@ -37,7 +37,7 @@ Boot2Root
          
 usage 
 
-                   git clone https://github.com/
+                   git clone https://github.com/dominosh/troot
                 
                    cd RootMe 
                 

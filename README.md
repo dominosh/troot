@@ -37,7 +37,7 @@ Boot2Root
          
 usage 
 
-                   git clone https://github.com/TamilHackz/RootMe.git
+                   git clone https://github.com/
                 
                    cd RootMe 
                 
